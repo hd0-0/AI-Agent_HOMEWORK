@@ -1,0 +1,23 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^17.4.2"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^8.4.3",
+    "@qdrant/js-client-rest": "^1.18.0",
+    "csv-parse": "^6.2.1",
+    "dotenv": "^17.4.2",
+    "inquirer": "^14.0.2",
+    "lowdb": "^7.0.1",
+    "openai": "^6.41.0",
+    "ora": "^9.4.0",
+    "zod": "^4.4.3",
+    "unpdf": "^1.6.2"
+  }
+}
