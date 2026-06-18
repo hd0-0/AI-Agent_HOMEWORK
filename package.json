@@ -1,0 +1,15 @@
+{
+  "name": "hw03-mini-knowledge-base",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "init": "node initKnowledgeBase.js",
+    "search": "node searchTest.js",
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@qdrant/js-client-rest": "^1.15.1",
+    "dotenv": "^16.4.7",
+    "openai": "^4.104.0"
+  }
+}
