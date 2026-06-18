@@ -1,0 +1,13 @@
+{
+  "name": "hw04-youbike-time-tools",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.104.0"
+  }
+}
